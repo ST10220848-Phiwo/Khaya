@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895803194675",
+    "project_id": "khaya-b6f2c",
+    "storage_bucket": "khaya-b6f2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895803194675:android:66948033ff352da1fb5246",
+        "android_client_info": {
+          "package_name": "com.example.khaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCkHQp6I1ytdF_G5h_BYtTfGMswlrbIgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
